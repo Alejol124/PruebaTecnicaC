@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alejandro\\Desktop\\Programacion\\Proyectos C#\\PruebaTecnicaCosmo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{38C12675-5420-47CE-96E3-AF52F69B588E}|PruebaTecnicaCosmo\\PruebaTecnicaCosmo.csproj|c:\\users\\alejandro\\desktop\\programacion\\proyectos c#\\pruebatecnicacosmo\\pruebatecnicacosmo\\cola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38C12675-5420-47CE-96E3-AF52F69B588E}|PruebaTecnicaCosmo\\PruebaTecnicaCosmo.csproj|solutionrelative:pruebatecnicacosmo\\cola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38C12675-5420-47CE-96E3-AF52F69B588E}|PruebaTecnicaCosmo\\PruebaTecnicaCosmo.csproj|c:\\users\\alejandro\\desktop\\programacion\\proyectos c#\\pruebatecnicacosmo\\pruebatecnicacosmo\\pila.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38C12675-5420-47CE-96E3-AF52F69B588E}|PruebaTecnicaCosmo\\PruebaTecnicaCosmo.csproj|solutionrelative:pruebatecnicacosmo\\pila.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38C12675-5420-47CE-96E3-AF52F69B588E}|PruebaTecnicaCosmo\\PruebaTecnicaCosmo.csproj|c:\\users\\alejandro\\desktop\\programacion\\proyectos c#\\pruebatecnicacosmo\\pruebatecnicacosmo\\general.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38C12675-5420-47CE-96E3-AF52F69B588E}|PruebaTecnicaCosmo\\PruebaTecnicaCosmo.csproj|solutionrelative:pruebatecnicacosmo\\general.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38C12675-5420-47CE-96E3-AF52F69B588E}|PruebaTecnicaCosmo\\PruebaTecnicaCosmo.csproj|c:\\users\\alejandro\\desktop\\programacion\\proyectos c#\\pruebatecnicacosmo\\pruebatecnicacosmo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38C12675-5420-47CE-96E3-AF52F69B588E}|PruebaTecnicaCosmo\\PruebaTecnicaCosmo.csproj|solutionrelative:pruebatecnicacosmo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cola.cs",
+              "DocumentMoniker": "C:\\Users\\Alejandro\\Desktop\\Programacion\\Proyectos C#\\PruebaTecnicaCosmo\\PruebaTecnicaCosmo\\Cola.cs",
+              "RelativeDocumentMoniker": "PruebaTecnicaCosmo\\Cola.cs",
+              "ToolTip": "C:\\Users\\Alejandro\\Desktop\\Programacion\\Proyectos C#\\PruebaTecnicaCosmo\\PruebaTecnicaCosmo\\Cola.cs",
+              "RelativeToolTip": "PruebaTecnicaCosmo\\Cola.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T22:56:09.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pila.cs",
+              "DocumentMoniker": "C:\\Users\\Alejandro\\Desktop\\Programacion\\Proyectos C#\\PruebaTecnicaCosmo\\PruebaTecnicaCosmo\\Pila.cs",
+              "RelativeDocumentMoniker": "PruebaTecnicaCosmo\\Pila.cs",
+              "ToolTip": "C:\\Users\\Alejandro\\Desktop\\Programacion\\Proyectos C#\\PruebaTecnicaCosmo\\PruebaTecnicaCosmo\\Pila.cs",
+              "RelativeToolTip": "PruebaTecnicaCosmo\\Pila.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAACkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T21:29:19.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "General.cs",
+              "DocumentMoniker": "C:\\Users\\Alejandro\\Desktop\\Programacion\\Proyectos C#\\PruebaTecnicaCosmo\\PruebaTecnicaCosmo\\General.cs",
+              "RelativeDocumentMoniker": "PruebaTecnicaCosmo\\General.cs",
+              "ToolTip": "C:\\Users\\Alejandro\\Desktop\\Programacion\\Proyectos C#\\PruebaTecnicaCosmo\\PruebaTecnicaCosmo\\General.cs",
+              "RelativeToolTip": "PruebaTecnicaCosmo\\General.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T17:21:28.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Alejandro\\Desktop\\Programacion\\Proyectos C#\\PruebaTecnicaCosmo\\PruebaTecnicaCosmo\\Program.cs",
+              "RelativeDocumentMoniker": "PruebaTecnicaCosmo\\Program.cs",
+              "ToolTip": "C:\\Users\\Alejandro\\Desktop\\Programacion\\Proyectos C#\\PruebaTecnicaCosmo\\PruebaTecnicaCosmo\\Program.cs",
+              "RelativeToolTip": "PruebaTecnicaCosmo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T17:18:13.416Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

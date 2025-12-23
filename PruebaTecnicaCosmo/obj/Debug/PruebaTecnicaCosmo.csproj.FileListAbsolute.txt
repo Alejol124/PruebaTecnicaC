@@ -1,0 +1,8 @@
+C:\Users\Alejandro\Desktop\Programacion\Proyectos C#\PruebaTecnicaCosmo\PruebaTecnicaCosmo\bin\Debug\PruebaTecnicaCosmo.exe.config
+C:\Users\Alejandro\Desktop\Programacion\Proyectos C#\PruebaTecnicaCosmo\PruebaTecnicaCosmo\bin\Debug\PruebaTecnicaCosmo.exe
+C:\Users\Alejandro\Desktop\Programacion\Proyectos C#\PruebaTecnicaCosmo\PruebaTecnicaCosmo\bin\Debug\PruebaTecnicaCosmo.pdb
+C:\Users\Alejandro\Desktop\Programacion\Proyectos C#\PruebaTecnicaCosmo\PruebaTecnicaCosmo\obj\Debug\PruebaTecnicaCosmo.csproj.AssemblyReference.cache
+C:\Users\Alejandro\Desktop\Programacion\Proyectos C#\PruebaTecnicaCosmo\PruebaTecnicaCosmo\obj\Debug\PruebaTecnicaCosmo.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\Desktop\Programacion\Proyectos C#\PruebaTecnicaCosmo\PruebaTecnicaCosmo\obj\Debug\PruebaTecnicaCosmo.exe
+C:\Users\Alejandro\Desktop\Programacion\Proyectos C#\PruebaTecnicaCosmo\PruebaTecnicaCosmo\obj\Debug\PruebaTecnicaCosmo.pdb
+C:\Users\Alejandro\Desktop\Programacion\Proyectos C#\PruebaTecnicaCosmo\PruebaTecnicaCosmo\obj\Debug\PruebaTecnicaCosmo.exe.config
