@@ -18,13 +18,17 @@ namespace PruebaTecnicaCosmo
                 switch (op)
                 {
                     case 1:
-
+                        Grafo.LlenarGrafo();
+                        General.Imprimir(Grafo.IsReachable().ToString());
                         break;
                     case 2:
                         Cola.ProcesoCola();
                         break;
                     case 3:
                         General.Imprimir(Pila.IsBalanced().ToString());
+                        break;
+                    case 4:
+                        API.Procesar();
                         break;
                     default:
                         General.Imprimir("Ingrese una opcción válida");
